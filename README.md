@@ -19,5 +19,5 @@ This project uses modern web technologies like Flexbox and CSS Grid for layout a
 
 ## Preview
 
-![Calculator Preview](assets/calculater.png)
+![Calculator Preview](./src/assets/calculater.png)
 
