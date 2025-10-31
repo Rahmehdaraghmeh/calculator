@@ -11,8 +11,8 @@ This project uses modern web technologies like Flexbox and CSS Grid for layout a
 - Lightweight and easy to use
 
 ### Technologies Used
-- React
-- TypeScript
+- html
+- javascript
 - CSS Flexbox and Grid
 
 ---
